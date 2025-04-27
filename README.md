@@ -14,8 +14,8 @@ This project is a RESTful API built using **Node.js** and **Prisma ORM**, design
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/3laaElsadany/node-prisma-api.git
-cd node-prisma-api
+git clone https://github.com/3laaElsadany/node_prisma_api.git
+cd node_prisma_api
 ```
 
 ### 2. Install dependencies
